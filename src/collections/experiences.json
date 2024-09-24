@@ -1,23 +1,16 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
+		"dates": "2021 · 2024",
+		"role": "Full Stack Developer",
+		"company": "IBM",
+		"description": "Develop and maintain frontend, backend and databases",
+		"logo": "/assets/images/experiences/ibm_icon_130909.ico"
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/assets/images/experiences/yoho.ico"
-	},
-	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/assets/images/experiences/wulian.ico"
+		"dates": "2020 · 2021",
+		"role": "Full Stack Developer Student-Intern",
+		"company": "IBM",
+		"description": "Responsible for mobile frontend, autometed test and documentation.",
+		"logo": "/assets/images/experiences/ibm_icon_130909.ico"
 	}
 ]
