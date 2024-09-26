@@ -3,14 +3,30 @@
 		"dates": "2021 · 2024",
 		"role": "Full Stack Developer",
 		"company": "IBM",
-		"description": "Develop and maintain frontend, backend and databases",
+		"description": [
+      "Develop and maintain frontend, backend and databases.",
+      "Implement and integrate RESTful APIs and third-party services.",
+			"Build responsive and user-friendly interfaces using React.",
+			"Participate in pull request to ensure code quality and best practices.",
+			"Create and execute tests using testing frameworks like Jest, Mocha, or Pytest.",
+			"Track and manage tasks using project management tools like Jira or Trello.",
+			"Deploy applications to cloud platformslike IBM Cloud.",
+			"Performance Optimization frontend, backend, Databases."
+    ],
 		"logo": "/assets/images/experiences/ibm_icon_130909.ico"
 	},
 	{
 		"dates": "2020 · 2021",
 		"role": "Full Stack Developer Student-Intern",
 		"company": "IBM",
-		"description": "Responsible for mobile frontend, autometed test and documentation.",
+		"description":  [
+      "Automate functional tests.",
+      "Debug and troubleshoot issues in existing applications.",
+			"Document code changes.",
+			"Mange Code review meetings",
+			"Demo presentations.",
+			"Project Manager Assistant."
+    ],
 		"logo": "/assets/images/experiences/ibm_icon_130909.ico"
 	}
 ]
